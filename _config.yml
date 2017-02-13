@@ -1,10 +1,9 @@
-title: Your awesome title
-email: your-email@domain.com
+title: Shawn's blog
+email: 252084752@qq.com
 description: description
-baseurl: /Jekyll-Avalon
-url: http://joshuaavalon.github.io
-twitter_username: joshuaavalon
-github_username:  joshuaavalon
+baseurl: /sun-shawn.github.io
+url: http://sun-shawn.github.io
+github_username:  shawn
 
 sass:
   style: compressed
