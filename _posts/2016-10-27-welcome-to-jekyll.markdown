@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to Shawn’s blog!
+title:  Welcome to jekyll!
 categories: 
     - jekyll update
 tags: 
